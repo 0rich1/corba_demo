@@ -1,0 +1,5 @@
+module com {
+    interface Hello{
+        string sayHello (in  wstring name);
+　   };
+};
